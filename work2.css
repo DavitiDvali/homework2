@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container1 {
+    height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper {
+  height: 275px;
+  width: 240px;
+  background-color: #faf4ef;
+
+  border-bottom-left-radius: 30px;
+}
+
+h3 {
+  padding-top: 30px;
+  padding-left: 28px;
+  font-family: "DM Serif Display", serif;
+  font-weight: 500;
+  font-size: 22px;
+  color: #4b4b4b;
+  margin-bottom: 3px;
+}
+
+p {
+  padding-left: 28px;
+  font-family: "DM Serif Display", serif;
+
+  color: #737373;
+}
+
+img {
+  width: 85%;
+
+  margin: 30px 50px 0px 25px;
+}
